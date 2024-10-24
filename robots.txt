@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://hulikilu.github.io/sitemap/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/DSt/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/kxs/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/knH/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/wuC/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/NEc/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/IcU/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/gDt/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/ISv/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/fOg/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/oNU/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/yDV/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/brX/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/cov/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/alS/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/BqL/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/OMR/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/gSy/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/vSq/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/xlm/sitemap_index.hulikilu
+Sitemap: https://hulikilu.github.io/DnY/sitemap_index.hulikilu
